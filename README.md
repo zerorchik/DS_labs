@@ -11,3 +11,9 @@
 **СТАТИСТИЧНЕ НАВЧАННЯ З ПОЛІНОМІАЛЬНОЮ РЕГРЕСІЄЮ**
 
 ![image](https://github.com/zerorchik/DS_labs/assets/103893849/fd64c47d-32cb-4e1c-91fa-23cb4fda4b69)
+
+# Лабораторна 3: 
+
+**МАКЕТ ІНТЕЛЕКТУАЛЬНОЇ ERP СИСТЕМИ ПІДТРИМКИ ПРИЙНЯТТЯ РІШЕНЬ**
+
+![image](https://github.com/zerorchik/DS_labs/assets/103893849/5e5f8ba6-eb9c-4d2e-b783-1fdfc5d65043)
