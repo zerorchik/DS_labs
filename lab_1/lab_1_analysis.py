@@ -167,7 +167,7 @@ data_mode = int(input('mode:'))
 # Якщо джерело даних існує
 if data_mode in range(1, len(names) + 1):
     # Зчитування та сортування вибірки
-    df_real_sorted = file_parsing(url, 'rosnia.xlsx', columns[data_mode-1])
+    df_real_sorted = file_parsing(url, 'rosnia.xlsx', columns[data_mode - 1])
     # Визначення тренду
     df_zglad, coef = mnk(df_real_sorted, True)
     plot(df_zglad, df_real_sorted, 'Кількість ' + str(vtratu[data_mode - 1]) + ' росні станом на вересень 2023', 'Лінія тренду', names[data_mode - 1], '(і+1)-е вересня 2023', 'Штуки')

@@ -340,7 +340,7 @@ if data_var in range(1, 3):
     # Якщо джерело даних існує
     if data_mode in range(1, len(names) + 1):
         # Зчитування та сортування вибірки
-        df_real_sorted = file_parsing(url, '../rosnia.xlsx', columns[data_mode - 1])
+        df_real_sorted = file_parsing(url, '../lab_1/rosnia.xlsx', columns[data_mode - 1])
         # Визначення тренду та коефіцієнтів регресії
         df_zglad, coef = mnk(df_real_sorted, False)
         # Визначення характеристик вибірки
