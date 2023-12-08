@@ -23,3 +23,9 @@
 **РЕАЛІЗАЦІЯ ПРОЦЕСІВ ІНТЕЛЕКТУАЛЬНОГО АНАЛІЗУ ДАНИХ: МІНІ ПРОЕКТИ В ГАЛУЗЯХ OLAP, Data Mining, Text Mining, Voice Recognition**
 
 ![image](https://github.com/zerorchik/DS_labs/assets/103893849/f5408387-8356-4f56-9dbb-90024c7e07ca)
+
+# Лабораторна 5: 
+
+**РЕАЛІЗАЦІЯ МЕТОДІВ МАШИННОГО НАВЧАННЯ (MACHINE LEARNING (ML))**
+
+![image](https://github.com/zerorchik/DS_labs/assets/103893849/2100acd1-9403-46a6-8851-9d46d1db679d)
