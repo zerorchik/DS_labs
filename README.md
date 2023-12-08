@@ -28,4 +28,4 @@
 
 **РЕАЛІЗАЦІЯ МЕТОДІВ МАШИННОГО НАВЧАННЯ (MACHINE LEARNING (ML))**
 
-![image](https://github.com/zerorchik/DS_labs/assets/103893849/2100acd1-9403-46a6-8851-9d46d1db679d)
+![image](https://github.com/zerorchik/DS_labs/assets/103893849/9155ba3b-ff2e-423b-aea1-f3c45b96b544)
