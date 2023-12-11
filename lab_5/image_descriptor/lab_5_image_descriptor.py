@@ -1,6 +1,5 @@
 import numpy as np
 import cv2 as cv
-import matplotlib.pyplot as plt
 
 # Детектор кутів Харріса
 def harris_corner_detector (filename, result_file):
