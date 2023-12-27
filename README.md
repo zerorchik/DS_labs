@@ -29,3 +29,9 @@
 **РЕАЛІЗАЦІЯ МЕТОДІВ МАШИННОГО НАВЧАННЯ (MACHINE LEARNING (ML))**
 
 ![image](https://github.com/zerorchik/DS_labs/assets/103893849/eb7cdd7d-1725-4b77-8a85-75450469fb3f)
+
+# Лабораторна 6: 
+
+**РЕАЛІЗАЦІЯ ШТУЧНИХ НЕЙРОННИХ МЕРЕЖ (Artificial Neural Networks)**
+
+![image](https://github.com/zerorchik/DS_labs/assets/103893849/257df823-bf99-4865-9e77-f24d6b56f39d)
