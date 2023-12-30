@@ -42,6 +42,12 @@
 
 ![image](https://github.com/zerorchik/DS_labs/assets/103893849/78262886-d9b7-4ac4-bafb-14e2976d2c8c)
 
+# Лабораторна 8:
+
+**МАКЕТ CRM СИСТЕМИ SCORING – АНАЛІЗУ (міні проекти в банківській сфері аналізу даних)**
+
+![image](https://github.com/zerorchik/DS_labs/assets/103893849/4e7c0b3b-f269-447a-9848-19dc8324244e)
+
 # Модульна контрольна робота
 
 ![image](https://github.com/zerorchik/DS_labs/assets/103893849/17e4e834-b62e-4281-b46d-063035aa38b8)
