@@ -60,16 +60,16 @@ def evaluate_education(education_id):
 # Оцінка наявності нерухомості
 def evaluate_immovables(has_immovables):
     if has_immovables == 1:
-        return 1
-    else:
         return 3
+    else:
+        return 1
 
 # Оцінка навяності транспортного засобу
 def evaluate_movables(has_movables):
     if has_movables == 1:
-        return 1
-    else:
         return 2
+    else:
+        return 1
 
 # Оцінка типу зайнятості
 def evaluate_employment_type(employment_type_id):
@@ -108,7 +108,7 @@ def evaluate_monthly_expenses(monthly_expenses):
     else:
         return 1
 
-# Оцінка gender_id присутніх погашених позик
+# Оцінка присутніх погашених позик
 def evaluate_other_loans_has_closed(other_loans_has_closed):
     if other_loans_has_closed == 1:
         return 2
