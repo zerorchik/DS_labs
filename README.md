@@ -48,6 +48,12 @@
 
 ![image](https://github.com/zerorchik/DS_labs/assets/103893849/4e7c0b3b-f269-447a-9848-19dc8324244e)
 
+# Лабораторна 9:
+
+**МАКЕТ GIS СИСТЕМИ**
+
+![image](https://github.com/zerorchik/DS_labs/assets/103893849/e092dacc-aa88-448f-830b-588f7f30b6bd)
+
 # Модульна контрольна робота
 
 ![image](https://github.com/zerorchik/DS_labs/assets/103893849/17e4e834-b62e-4281-b46d-063035aa38b8)
